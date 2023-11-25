@@ -1,0 +1,3 @@
+
+dotnet tool install QuestPDF.Previewer --global
+dotnet tool uninstall questpdf.previewer --global
